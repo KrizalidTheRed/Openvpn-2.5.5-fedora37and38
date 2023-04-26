@@ -34,7 +34,8 @@ make install
 providers = provider_sect 
 
 [provider_sect] 
-default = default_sect legacy = legacy_sect 
+default = default_sect 
+legacy = legacy_sect 
 
 [default_sect] 
 activate = 1 
